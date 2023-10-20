@@ -56,7 +56,7 @@
     },
     "breakoutRooms": {
         "actions": {
-            "add": "Add breakout room",
+            "add": "Thêm phòng",
             "autoAssign": "Auto assign to breakout rooms",
             "close": "Close",
             "join": "Join",
@@ -413,7 +413,7 @@
         "sendPrivateMessageTitle": "Send privately?",
         "serviceUnavailable": "Service unavailable",
         "sessTerminated": "Call terminated",
-        "sessTerminatedReason": "The meeting has been terminated",
+        "sessTerminatedReason": "Cuộc họp đã kết thúc",
         "sessionRestarted": "Call restarted because of a connection issue.",
         "shareAudio": "Continue",
         "shareAudioTitle": "How to share audio",

@@ -238,13 +238,13 @@ var interfaceConfig = {
     // DISABLE_FOCUS_INDICATOR: false,
 
     // Please use defaultLocalDisplayName from config.js
-    // DEFAULT_LOCAL_DISPLAY_NAME: 'me',
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Tôi',
 
     // Please use defaultLogoUrl from config.js
     // DEFAULT_LOGO_URL: 'images/watermark.svg',
 
     // Please use defaultRemoteDisplayName from config.js
-    // DEFAULT_REMOTE_DISPLAY_NAME: 'Fellow Jitster',
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Khách CMC',
 
     // Moved to config.js as `toolbarConfig.initialTimeout`.
     // INITIAL_TOOLBAR_TIMEOUT: 20000,
@@ -257,7 +257,40 @@ var interfaceConfig = {
     // TOOLBAR_ALWAYS_VISIBLE: false,
 
     // This config was moved to config.js as `toolbarButtons`.
-    // TOOLBAR_BUTTONS: [],
+    // TOOLBAR_BUTTONS: ['microphone', 'camera', 'desktop', 'whiteboard', 'recording', 'security', 'raisehand', 'settings','participants-pane'],
+    TOOLBAR_BUTTONS: ['camera',
+    'closedcaptions',
+    'desktop',
+    'download',
+    'embedmeeting',
+    'etherpad',
+    'feedback',
+    'filmstrip',
+    'fullscreen',
+    'hangup',
+    'help',
+    'highlight',
+    'invite',
+    'linktosalesforce',
+    'livestreaming',
+    'microphone',
+    'noisesuppression',
+    'participants-pane',
+    'profile',
+    'raisehand',
+    'recording',
+    'security',
+    'select-background',
+    'settings',
+    'shareaudio',
+    'sharedvideo',
+    'shortcuts',
+    'stats',
+    'tileview',
+    'toggle-camera',
+    'videoquality',
+    // 'whiteboard',
+],
 
     // Moved to config.js as `toolbarConfig.timeout`.
     // TOOLBAR_TIMEOUT: 4000,
