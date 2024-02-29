@@ -7,5 +7,6 @@ Chạy file jitsi.sh
     ./jitsi.sh
 
 Jitsi tự động cài đặt Nginx, sau đó truy cập nginx: /etc/nginx/sites-available/domain.conf sửa mục root mặc định thành /root/backup-jitsimeet
+Truy cập domain là vào được web
 
 DOCUMENT: https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart
