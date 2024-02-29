@@ -1,5 +1,5 @@
 # Jitsi
-
+# REQUIMENT: UBUNTU 20.04
 Chạy file jitsi.sh
 
     cd /root/ && git clone https://github.com/tuanpa-tpa/backup-jitsimeet.git
