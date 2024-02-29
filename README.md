@@ -2,7 +2,7 @@
 
 Chạy file jitsi.sh
 
-    cd /root/ && git clone https://github.com/tuanpa-tpa/backup-jitsimeet
+    cd /root/ && git clone https://github.com/tuanpa-tpa/backup-jitsimeet.git
     chmod +x jitsi.sh
     ./jitsi.sh
 
